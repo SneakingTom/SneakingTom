@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SneakingTom
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java and JavaFX
-- 📫 How to reach me: My Twitter you can message me @TheSneakingTom or my gmail mickeymouse102206@gmail.com
+- 👀 I’m interested in Java,C,C++,and Python.
+- 🌱 I’m currently learning a Game Engine.
+- 📫 How to reach me: My Twitter you can message me @TheSneakingTom or my gmail sneakingtom@gmail.com
 
 <!---
 SneakingTom/SneakingTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
